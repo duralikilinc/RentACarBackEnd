@@ -1,0 +1,14 @@
+D:\Visual Studio\Project\RentACar\DataAccess\bin\Debug\netstandard2.0\DataAccess.deps.json
+D:\Visual Studio\Project\RentACar\DataAccess\bin\Debug\netstandard2.0\DataAccess.dll
+D:\Visual Studio\Project\RentACar\DataAccess\bin\Debug\netstandard2.0\DataAccess.pdb
+D:\Visual Studio\Project\RentACar\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfoInputs.cache
+D:\Visual Studio\Project\RentACar\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfo.cs
+D:\Visual Studio\Project\RentACar\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Project\RentACar\DataAccess\obj\Debug\netstandard2.0\DataAccess.dll
+D:\Visual Studio\Project\RentACar\DataAccess\obj\Debug\netstandard2.0\DataAccess.pdb
+D:\Visual Studio\Project\RentACar\DataAccess\obj\Debug\netstandard2.0\DataAccess.csprojAssemblyReference.cache
+D:\Visual Studio\Project\RentACar\DataAccess\bin\Debug\netstandard2.0\Entities.dll
+D:\Visual Studio\Project\RentACar\DataAccess\bin\Debug\netstandard2.0\Entities.pdb
+D:\Visual Studio\Project\RentACar\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.CopyComplete
+D:\Visual Studio\Project\RentACar\DataAccess\bin\Debug\netstandard2.0\Core.dll
+D:\Visual Studio\Project\RentACar\DataAccess\bin\Debug\netstandard2.0\Core.pdb
