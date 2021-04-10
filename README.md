@@ -15,4 +15,4 @@ Demonstrates the use of layered architectural pattern in accordance with SOLID p
 *IoC
 *Interceptors
 
-* SQL DB script=> https://github.com/duralikilinc/RentACarBackEnd/blob/master/RentACar/RentACarDb.sql
+* <a href="https://github.com/duralikilinc/RentACarBackEnd/blob/master/RentACar/RentACarDb.sql">SQL DB script</a> 
