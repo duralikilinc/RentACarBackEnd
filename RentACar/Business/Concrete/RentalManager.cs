@@ -57,6 +57,11 @@ namespace Business.Concrete
             return new SuccessDataResult<List<RentalDetailDto>>(_rentalDal.GetRentalDetailDto(), Messages.SuccessListed);
         }
 
+        public IDataResult<List<RentalDetailDto>> GetRentalByCustomerId(int customerId)
+        {
+            return new SuccessDataResult<List<RentalDetailDto>>(_rentalDal.GetRentalDetailDto(k=>k.CustomerId==customerId), Messages.SuccessListed);
+        }
+
         public IResult IsRental(int carId)
         {
             bool result = _rentalDal.GetAll(k=>k.CarId==carId&& k.ReturnDate>=DateTime.Now).Any();

@@ -10,7 +10,8 @@ namespace Business.Abstract
    public interface IRentalService:IBussiniesRepository<Rental>
    {
        IDataResult<List<RentalDetailDto>> GetRentalDetailDto();
-       IResult IsRental(int carId);
+       IDataResult<List<RentalDetailDto>> GetRentalByCustomerId(int customerId);
+        IResult IsRental(int carId);
 
        IResult CheckFindexScore(int carId, int customerId);
    }
