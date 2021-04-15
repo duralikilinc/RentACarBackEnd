@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Visual Studio\\Project\\RentACar\\WebAPI\\WebAPI.csproj": {}
+    "C:\\Users\\SoftwareDeveloper\\Documents\\GitHub\\RentACarBackEnd\\RentACar\\WebAPI\\WebAPI.csproj": {}
   },
   "projects": {
-    "D:\\Visual Studio\\Project\\RentACar\\Business\\Business.csproj": {
+    "C:\\Users\\SoftwareDeveloper\\Documents\\GitHub\\RentACarBackEnd\\RentACar\\Business\\Business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Visual Studio\\Project\\RentACar\\Business\\Business.csproj",
+        "projectUniqueName": "C:\\Users\\SoftwareDeveloper\\Documents\\GitHub\\RentACarBackEnd\\RentACar\\Business\\Business.csproj",
         "projectName": "Business",
-        "projectPath": "D:\\Visual Studio\\Project\\RentACar\\Business\\Business.csproj",
+        "projectPath": "C:\\Users\\SoftwareDeveloper\\Documents\\GitHub\\RentACarBackEnd\\RentACar\\Business\\Business.csproj",
         "packagesPath": "C:\\Users\\SoftwareDeveloper\\.nuget\\packages\\",
-        "outputPath": "D:\\Visual Studio\\Project\\RentACar\\Business\\obj\\",
+        "outputPath": "C:\\Users\\SoftwareDeveloper\\Documents\\GitHub\\RentACarBackEnd\\RentACar\\Business\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -32,11 +32,11 @@
           "netstandard2.0": {
             "targetAlias": "netstandard2.0",
             "projectReferences": {
-              "D:\\Visual Studio\\Project\\RentACar\\DataAccess\\DataAccess.csproj": {
-                "projectPath": "D:\\Visual Studio\\Project\\RentACar\\DataAccess\\DataAccess.csproj"
+              "C:\\Users\\SoftwareDeveloper\\Documents\\GitHub\\RentACarBackEnd\\RentACar\\DataAccess\\DataAccess.csproj": {
+                "projectPath": "C:\\Users\\SoftwareDeveloper\\Documents\\GitHub\\RentACarBackEnd\\RentACar\\DataAccess\\DataAccess.csproj"
               },
-              "D:\\Visual Studio\\Project\\RentACar\\Entities\\Entities.csproj": {
-                "projectPath": "D:\\Visual Studio\\Project\\RentACar\\Entities\\Entities.csproj"
+              "C:\\Users\\SoftwareDeveloper\\Documents\\GitHub\\RentACarBackEnd\\RentACar\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\SoftwareDeveloper\\Documents\\GitHub\\RentACarBackEnd\\RentACar\\Entities\\Entities.csproj"
               }
             }
           }
@@ -88,18 +88,18 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Visual Studio\\Project\\RentACar\\Core\\Core.csproj": {
+    "C:\\Users\\SoftwareDeveloper\\Documents\\GitHub\\RentACarBackEnd\\RentACar\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Visual Studio\\Project\\RentACar\\Core\\Core.csproj",
+        "projectUniqueName": "C:\\Users\\SoftwareDeveloper\\Documents\\GitHub\\RentACarBackEnd\\RentACar\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "D:\\Visual Studio\\Project\\RentACar\\Core\\Core.csproj",
+        "projectPath": "C:\\Users\\SoftwareDeveloper\\Documents\\GitHub\\RentACarBackEnd\\RentACar\\Core\\Core.csproj",
         "packagesPath": "C:\\Users\\SoftwareDeveloper\\.nuget\\packages\\",
-        "outputPath": "D:\\Visual Studio\\Project\\RentACar\\Core\\obj\\",
+        "outputPath": "C:\\Users\\SoftwareDeveloper\\Documents\\GitHub\\RentACarBackEnd\\RentACar\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -197,18 +197,18 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Visual Studio\\Project\\RentACar\\DataAccess\\DataAccess.csproj": {
+    "C:\\Users\\SoftwareDeveloper\\Documents\\GitHub\\RentACarBackEnd\\RentACar\\DataAccess\\DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Visual Studio\\Project\\RentACar\\DataAccess\\DataAccess.csproj",
+        "projectUniqueName": "C:\\Users\\SoftwareDeveloper\\Documents\\GitHub\\RentACarBackEnd\\RentACar\\DataAccess\\DataAccess.csproj",
         "projectName": "DataAccess",
-        "projectPath": "D:\\Visual Studio\\Project\\RentACar\\DataAccess\\DataAccess.csproj",
+        "projectPath": "C:\\Users\\SoftwareDeveloper\\Documents\\GitHub\\RentACarBackEnd\\RentACar\\DataAccess\\DataAccess.csproj",
         "packagesPath": "C:\\Users\\SoftwareDeveloper\\.nuget\\packages\\",
-        "outputPath": "D:\\Visual Studio\\Project\\RentACar\\DataAccess\\obj\\",
+        "outputPath": "C:\\Users\\SoftwareDeveloper\\Documents\\GitHub\\RentACarBackEnd\\RentACar\\DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -229,11 +229,11 @@
           "netstandard2.0": {
             "targetAlias": "netstandard2.0",
             "projectReferences": {
-              "D:\\Visual Studio\\Project\\RentACar\\Core\\Core.csproj": {
-                "projectPath": "D:\\Visual Studio\\Project\\RentACar\\Core\\Core.csproj"
+              "C:\\Users\\SoftwareDeveloper\\Documents\\GitHub\\RentACarBackEnd\\RentACar\\Core\\Core.csproj": {
+                "projectPath": "C:\\Users\\SoftwareDeveloper\\Documents\\GitHub\\RentACarBackEnd\\RentACar\\Core\\Core.csproj"
               },
-              "D:\\Visual Studio\\Project\\RentACar\\Entities\\Entities.csproj": {
-                "projectPath": "D:\\Visual Studio\\Project\\RentACar\\Entities\\Entities.csproj"
+              "C:\\Users\\SoftwareDeveloper\\Documents\\GitHub\\RentACarBackEnd\\RentACar\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\SoftwareDeveloper\\Documents\\GitHub\\RentACarBackEnd\\RentACar\\Entities\\Entities.csproj"
               }
             }
           }
@@ -269,18 +269,18 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Visual Studio\\Project\\RentACar\\Entities\\Entities.csproj": {
+    "C:\\Users\\SoftwareDeveloper\\Documents\\GitHub\\RentACarBackEnd\\RentACar\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Visual Studio\\Project\\RentACar\\Entities\\Entities.csproj",
+        "projectUniqueName": "C:\\Users\\SoftwareDeveloper\\Documents\\GitHub\\RentACarBackEnd\\RentACar\\Entities\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "D:\\Visual Studio\\Project\\RentACar\\Entities\\Entities.csproj",
+        "projectPath": "C:\\Users\\SoftwareDeveloper\\Documents\\GitHub\\RentACarBackEnd\\RentACar\\Entities\\Entities.csproj",
         "packagesPath": "C:\\Users\\SoftwareDeveloper\\.nuget\\packages\\",
-        "outputPath": "D:\\Visual Studio\\Project\\RentACar\\Entities\\obj\\",
+        "outputPath": "C:\\Users\\SoftwareDeveloper\\Documents\\GitHub\\RentACarBackEnd\\RentACar\\Entities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -301,8 +301,8 @@
           "netstandard2.0": {
             "targetAlias": "netstandard2.0",
             "projectReferences": {
-              "D:\\Visual Studio\\Project\\RentACar\\Core\\Core.csproj": {
-                "projectPath": "D:\\Visual Studio\\Project\\RentACar\\Core\\Core.csproj"
+              "C:\\Users\\SoftwareDeveloper\\Documents\\GitHub\\RentACarBackEnd\\RentACar\\Core\\Core.csproj": {
+                "projectPath": "C:\\Users\\SoftwareDeveloper\\Documents\\GitHub\\RentACarBackEnd\\RentACar\\Core\\Core.csproj"
               }
             }
           }
@@ -334,18 +334,18 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Visual Studio\\Project\\RentACar\\WebAPI\\WebAPI.csproj": {
+    "C:\\Users\\SoftwareDeveloper\\Documents\\GitHub\\RentACarBackEnd\\RentACar\\WebAPI\\WebAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Visual Studio\\Project\\RentACar\\WebAPI\\WebAPI.csproj",
+        "projectUniqueName": "C:\\Users\\SoftwareDeveloper\\Documents\\GitHub\\RentACarBackEnd\\RentACar\\WebAPI\\WebAPI.csproj",
         "projectName": "WebAPI",
-        "projectPath": "D:\\Visual Studio\\Project\\RentACar\\WebAPI\\WebAPI.csproj",
+        "projectPath": "C:\\Users\\SoftwareDeveloper\\Documents\\GitHub\\RentACarBackEnd\\RentACar\\WebAPI\\WebAPI.csproj",
         "packagesPath": "C:\\Users\\SoftwareDeveloper\\.nuget\\packages\\",
-        "outputPath": "D:\\Visual Studio\\Project\\RentACar\\WebAPI\\obj\\",
+        "outputPath": "C:\\Users\\SoftwareDeveloper\\Documents\\GitHub\\RentACarBackEnd\\RentACar\\WebAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -366,17 +366,17 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "D:\\Visual Studio\\Project\\RentACar\\Business\\Business.csproj": {
-                "projectPath": "D:\\Visual Studio\\Project\\RentACar\\Business\\Business.csproj"
+              "C:\\Users\\SoftwareDeveloper\\Documents\\GitHub\\RentACarBackEnd\\RentACar\\Business\\Business.csproj": {
+                "projectPath": "C:\\Users\\SoftwareDeveloper\\Documents\\GitHub\\RentACarBackEnd\\RentACar\\Business\\Business.csproj"
               },
-              "D:\\Visual Studio\\Project\\RentACar\\Core\\Core.csproj": {
-                "projectPath": "D:\\Visual Studio\\Project\\RentACar\\Core\\Core.csproj"
+              "C:\\Users\\SoftwareDeveloper\\Documents\\GitHub\\RentACarBackEnd\\RentACar\\Core\\Core.csproj": {
+                "projectPath": "C:\\Users\\SoftwareDeveloper\\Documents\\GitHub\\RentACarBackEnd\\RentACar\\Core\\Core.csproj"
               },
-              "D:\\Visual Studio\\Project\\RentACar\\DataAccess\\DataAccess.csproj": {
-                "projectPath": "D:\\Visual Studio\\Project\\RentACar\\DataAccess\\DataAccess.csproj"
+              "C:\\Users\\SoftwareDeveloper\\Documents\\GitHub\\RentACarBackEnd\\RentACar\\DataAccess\\DataAccess.csproj": {
+                "projectPath": "C:\\Users\\SoftwareDeveloper\\Documents\\GitHub\\RentACarBackEnd\\RentACar\\DataAccess\\DataAccess.csproj"
               },
-              "D:\\Visual Studio\\Project\\RentACar\\Entities\\Entities.csproj": {
-                "projectPath": "D:\\Visual Studio\\Project\\RentACar\\Entities\\Entities.csproj"
+              "C:\\Users\\SoftwareDeveloper\\Documents\\GitHub\\RentACarBackEnd\\RentACar\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\SoftwareDeveloper\\Documents\\GitHub\\RentACarBackEnd\\RentACar\\Entities\\Entities.csproj"
               }
             }
           }
@@ -426,7 +426,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }
